@@ -1,0 +1,66 @@
+﻿@model ProductModel
+<h1 class="h3">Create Product</h1>
+<hr>
+<form asp-controller="Admin" asp-action="CreateProduct" method="post">
+    <div class="row">
+        <div class="col-md-12">
+            <div asp-validation-summary="All" class="text-danger"></div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label asp-for="Name" class="col-sm-3 col-form-label"></label>
+        <div class="col-sm-9">
+            <input asp-for="Name" class="form-control">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Url" class="col-sm-3 col-form-label"></label>
+        <div class="col-sm-9">
+            <input asp-for="Url" class="form-control">
+            <span asp-validation-for="Url" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="Description" class="col-sm-3 col-form-label"></label>
+        <div class="col-sm-9">
+            <textarea asp-for="Description" class="form-control"></textarea>  
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+      
+    </div>
+
+
+    <div class="form-group row">
+        <label asp-for="Price" class="col-sm-3 col-form-label"></label>
+        <div class="col-sm-9">
+            <input asp-for="Price" class="form-control">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group row">
+        <label asp-for="ImageUrl" class="col-sm-3 col-form-label"></label>
+        <div class="col-sm-9">
+            <input asp-for="ImageUrl" class="form-control">
+            <span asp-validation-for="ImageUrl" class="text-danger"></span>
+        </div>
+    </div>
+    <div class="form-group row">
+       
+        <div class="col-sm-9 offset-sm-3">
+            <button type="submit" class="btn btn-primary">Save Product</button>
+        </div>
+    </div>
+</form>
+@section Scripts{
+    <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+
+    <script>
+        CKEDITOR.replace('Description');
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.20.0/jquery.validate.min.js" integrity="sha512-WMEKGZ7L5LWgaPeJtw9MBM4i5w5OSBlSjTjCtSnvFJGSVD26gE5+Td12qN5pvWXhuWaWcVwF++F7aqu9cvqP0A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" integrity="sha512-xq+Vm8jC94ynOikewaQXMEkJIOBp7iArs3IhFWSWdRT3Pq8wFz46p+ZDFAR7kHnSFf+zUv52B3prRYnbDRdgog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

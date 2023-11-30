@@ -1,0 +1,9 @@
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.deps.json
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.AssemblyInfoInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.AssemblyInfo.cs
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Entity\obj\Debug\netcoreapp3.1\ShopApp.Entity.GeneratedMSBuildEditorConfig.editorconfig

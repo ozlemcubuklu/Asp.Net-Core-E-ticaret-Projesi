@@ -1,0 +1,47 @@
+﻿@model List<OrderListModel>
+<h1>   Orders</h1>
+
+
+<hr>
+
+
+@foreach (var item in Model)
+{
+    <table class="table table-bordered table-sm mb-3">
+
+
+        <thead>
+            <tr class="table-success">
+                <th colspan="2"> OrderId:#@item.OrderNumber</th>
+                <th>Price</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="2"> Customer Name</th>
+                <td>@item.FirstName @item.LastName</td>
+                <th>Total: @item.TotalPrice().ToString("c")</th>
+
+            </tr>
+        
+           
+            <tr>
+                <th colspan="2"> Order Status:</th>
+                <td>
+
+                    @item.OrderState</td>
+                <td>
+                    <a href="/admin/orders/@item.OrderId" class="btn btn-primary btn-sm">Edit</a>
+                </td>
+            </tr>
+           
+           
+        </tfoot>
+
+    </table>
+}

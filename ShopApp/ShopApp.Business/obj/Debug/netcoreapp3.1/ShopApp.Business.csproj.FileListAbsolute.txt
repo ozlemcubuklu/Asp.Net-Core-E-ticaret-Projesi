@@ -1,0 +1,15 @@
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.deps.json
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.data.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.data.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfo.cs
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CopyComplete
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.AssemblyReference.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig

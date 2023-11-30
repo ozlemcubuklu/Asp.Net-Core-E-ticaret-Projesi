@@ -1,0 +1,16 @@
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.data.deps.json
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.data.runtimeconfig.json
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.data.runtimeconfig.dev.json
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.data.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.data.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.AssemblyInfoInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.AssemblyInfo.cs
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.csproj.CoreCompileInputs.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.csproj.CopyComplete
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.dll
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.pdb
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.genruntimeconfig.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.csproj.AssemblyReference.cache
+C:\Users\OA\Desktop\dotnetcore\ShopApp\ShopApp.data\obj\Debug\netcoreapp3.1\ShopApp.data.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/style.css">
+    
+    @RenderSection("Css",false)
+    <title>Document</title>
+</head>
+<body>
+
+
+    @await Html.PartialAsync("_navbar")
+
+    @RenderSection("Header",false)
+
+    <main class="my-3">
+        <div class="container">
+            @if (TempData["message"] != null)
+            {
+
+                var message = JsonConvert.DeserializeObject<AlertMessage>(TempData["message"] as String);
+
+                <partial name="_ResultMessage.cshtml" model="@(TempData.Get<AlertMessage>("message"))" />
+
+              
+            }
+
+            <div class="row">
+                <div class="col-md-12">
+                    @RenderBody()
+                </div>
+            </div>
+
+
+        </div>
+    </main>
+
+    <footer class="py-5 bg-dark text-white text-center">
+        Shop App
+    </footer>
+    <script src="https://kit.fontawesome.com/aa0853a87e.js" crossorigin="anonymous"></script>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+
+    @RenderSection("Scripts",false)
+  
+</body>
+</html>
